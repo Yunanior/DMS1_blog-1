@@ -1,12 +1,12 @@
 ---
 title: Yuna's blog post
 published_at: 2024-03-27
-snippet: An example of a blog post.
+snippet: About DMS1 assignment
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# Scavenger Hunt
+# Week 01 Session 01
 ![image 1](./s01w01/01.png)
 ![image 2](/s01w01/03.png)
 ![image 3](/s01w01/05.png)
@@ -17,9 +17,16 @@ allow_math: true
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
-## This is h2
+## WEEK 01 Session 02
 
 *This is italic.*[^1]
+[vimeo link](https://vimeo.com/927841223?share=copy)
+
+https://vimeo.com/927841223?share=copy
+
+[vimeo link](https://vimeo.com/921993721?share=copy)
+
+https://vimeo.com/921993721?share=copy_underline_
 
 [^1]: This is a footnote, *which can also be italic*.
 
