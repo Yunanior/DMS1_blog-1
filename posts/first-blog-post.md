@@ -90,8 +90,16 @@ For the visual design, The images of dragonflies will throughout the video as a 
 
 **sound design**
 
+*backgroung music chooseing*
 
+There will be a main background music throughout the video.
+To establish the mood and atmosphere of the memorise are passing by, the background music will be soft and ethereal. And it will start and fade out in a right time.
 
+*Ambient Sounds*
+ 
+About the ambient sounds, they will change with the sense, like at start to show a living’s life is vanishing, I will insert the sounds of heartbeat rhythms and the beeping of equipments. Meanwhile I will use L and J cut to transfer between the footage, for example, the audience may hear the heartbeat at first than see another sense about the dragonfly.
+
+Via everything we mentioned above, the video will  evoke a sense of empty to lost as the feeling death bring us. And, the shots will be arranged to maintain a sense of flow and development, despite the protagonist's fragmented perception.
 
 ## Embedding video:
 
