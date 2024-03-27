@@ -25,17 +25,21 @@ Then we found a book searching device and finds lots of book related to Digital 
 
 After this, we go downstairs and found the place for food, then we think we maybe can find “An explosive cup of coffee”, but all the coffee stores are closes so we took a photo with coffee machine. 
 
-Then we read the list again, the last thing sounds so abstractive and we don’t know where to go, but luckily, before the time out, we saw the roots, the gate and the chair and took these photos.
+Then we read the list again, the last thing sounds so abstractive, and we don’t know where to go, but luckily, before the time out, we saw the roots, the gate and the chair and took these photos.
 
 
 
 ## WEEK 01 Session 02
 
-*30 sec footage & Pre-task*[^1]
+*Editing Practice*[^1]
 
 [30 sec footage](https://vimeo.com/927841223?share=copy)
 
 [Pre-task](https://vimeo.com/921993721?share=copy)
+
+About this task, I think is a good try but still have a lot of space to improve. 
+First, I realised I’m too focused on the logic between the footages instead of describing something emotional. Second, about the editing technique, I think still need to try more and have more practice.
+So in the following task, I will more focus on the meaning editing gave to the footage not the own storyline of the footages. 
 
 
 [^1]: This is a footnote, *which can also be italic*.
