@@ -55,6 +55,10 @@ You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-s
 
 ![storyboard02](/s01w01/storyboard02.jpg)
 
+![storyboard03](/s01w02/storyboard03.jpg)
+
+![storyboard04](/s01w02/storyboard04.jpg)
+
 ... which can be written inline, like this: $\{ x, y, z \} \in \N$
 
 ... or block, like this:
