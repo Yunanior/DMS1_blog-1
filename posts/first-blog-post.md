@@ -1,6 +1,6 @@
 ---
-title: This is a blog post!
-published_at: 2022-11-04
+title: Yuna's blog post
+published_at: 2024-03-27
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
