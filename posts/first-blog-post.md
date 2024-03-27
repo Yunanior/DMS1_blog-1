@@ -7,12 +7,12 @@ allow_math: true
 ---
 
 # Scavenger Hunt
-![image 1](./w01s1/01.png)
-![image 2](/w01s1/03.png)
-![image 3](/w01s1/05.png)
-![image 4](/w01s1/06.png)
-![image 5](/w01s1/07.png)
-![image 6](/w01s1/08.png)
+![image 1](./s01w01/01.png)
+![image 2](/s01w01/03.png)
+![image 3](/s01w01/05.png)
+![image 4](/s01w01/06.png)
+![image 5](/s01w01/07.png)
+![image 6](/s01w01/08.png)
 ![a drippy lemon](logo.svg)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
