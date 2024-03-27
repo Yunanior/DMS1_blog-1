@@ -44,7 +44,7 @@ Then we read the list again, the last thing sounds so abstractive, and we don’
 
 About this task, I think is a good try but still have a lot of space to improve. 
 First, I realised I’m too focused on the logic between the footages instead of describing something emotional. Second, about the editing technique, I think still need to try more and have more practice.
-So in the following task, I will more focus on the meaning editing gave to the footage not the own storyline of the footages. 
+So in the following task, I will more focus on the meaning editing gave to the footage, not the own storyline of the footages. 
 
 
 ## Week 02 Session 01
