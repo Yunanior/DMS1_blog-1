@@ -50,6 +50,10 @@ Hyperlinks can be written like this: `[text](https://URL)`
 You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
 ## Week 02 Session 01
+*Storyboard*
+![storyboard01](/s01w02/storyboard01.jpg)
+
+
 
 ... which can be written inline, like this: $\{ x, y, z \} \in \N$
 
