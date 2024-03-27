@@ -23,11 +23,8 @@ allow_math: true
 
 [30 sec footage](https://vimeo.com/927841223?share=copy)
 
-https://vimeo.com/927841223?share=copy
-
 [Pre-task](https://vimeo.com/921993721?share=copy)
 
-https://vimeo.com/921993721?share=copy_underline_
 
 [^1]: This is a footnote, *which can also be italic*.
 
