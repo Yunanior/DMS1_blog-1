@@ -19,7 +19,7 @@ allow_math: true
 
 ## WEEK 01 Session 02
 
-*This is italic.*[^1]
+*30 sec footage & Pre-task*[^1]
 [vimeo link](https://vimeo.com/927841223?share=copy)
 
 https://vimeo.com/927841223?share=copy
