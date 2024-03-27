@@ -113,8 +113,9 @@ It will be good audience have their own thought about the video. But, I think, l
 
 ![new storyboard](/s02w02/new02.jpg)
 
+![new storyboard](/s02w02/new03.jpg)
 
-
+![new storyboard](/s02w02/new04.jpg)
 
 ## Embedding video:
 
