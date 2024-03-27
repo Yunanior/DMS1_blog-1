@@ -117,9 +117,20 @@ It will be good audience have their own thought about the video. But, I think, l
 
 ![new storyboard](/s02w02/new04.jpg)
 
-## Embedding video:
+## Week03 Session 01
+**Draft**
 
-<iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[The draft](https://vimeo.com/927944184?share=copy)
+
+In this draft the first stage is basically completed—the order of the footage and the basic sound, visual editing.
+
+During the draft editing, I found out some footages were too straight to word, which make the audience have no space to imagine. Because of that, I start refine the information behind the footage and make is more symbolised. For example, the wedding sense been changed to the rings on the flowers. 
+
+So based on this draft, I correct all the things been mentioned above.
+
+## Finnal video:
+
+<iframe id="finnal vedio" src="https://www.youtube.com/watch?v=dgixbwRe2BY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <script type="module">
 
