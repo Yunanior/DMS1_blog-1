@@ -111,6 +111,7 @@ It will be good audience have their own thought about the video. But, I think, l
 
 ![new storyboard](/s02w02/new01.jpg)
 
+![new storyboard](/s02w02/new02.jpg)
 
 
 
