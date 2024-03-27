@@ -8,14 +8,25 @@ allow_math: true
 
 # Week 01 Session 01
 ![image 1](./s01w01/01.png)
-Library as a place we all know, so we started searching from there and find the book on the serching divice.
+
 ![image 2](/s01w01/03.png)
-When we going out of the library, we saw a venting machine in the corner!
+
 ![image 3](/s01w01/05.png)
-Coffee shop but closed:(
+
 ![image 4](/s01w01/06.png)
+
 ![image 5](/s01w01/07.png)
+
 ![image 6](/s01w01/08.png)
+
+In scavenger hunt, at first, we trying to find everything in the list order, but we quickly realized is impossible. So, the library as a place all the group members known, we started searching “a book containing Digital Media wisdom”. 
+
+Then we found a book searching device and finds lots of book related to Digital Media wisdom.When we were walking out the library, we saw a vending machine in the corner. 
+
+After this, we go downstairs and found the place for food, then we think we maybe can find “An explosive cup of coffee”, but all the coffee stores are closes so we took a photo with coffee machine. 
+
+Then we read the list again, the last thing sounds so abstractive and we don’t know where to go, but luckily, before the time out, we saw the roots, the gate and the chair and took these photos.
+
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
