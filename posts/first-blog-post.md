@@ -59,6 +59,12 @@ You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-s
 
 ![storyboard04](/s01w02/storyboard04.jpg)
 
+To make the emotions behind the video has continuity, I will only use the state shot to do some match cut or quick cut to make the whole Video has a flow emotion.
+In this project, the mean theme is “between” . In detail, this video will talk about the feeling between alive and death. There was a saying that when people fall in unconscious, they still have few second can hear the sound around and in the meantime they will recall all they’s lives. And this feeling is what the video will give to the audience.
+At first, I will use seamless transitions between each footages, to blur the boundaries between different states of consciousness. This could involve fades, dissolves, or morphing effects to symbolize the fluidity between life and death.
+Second, about the colour of footage, I will use cold tone to show the atmosphere of  detachment or otherworldliness.
+Based on this I hope the audience can touch the feeling of unreal.
+
 ... which can be written inline, like this: $\{ x, y, z \} \in \N$
 
 ... or block, like this:
