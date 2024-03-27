@@ -20,11 +20,12 @@ allow_math: true
 ## WEEK 01 Session 02
 
 *30 sec footage & Pre-task*[^1]
-[vimeo link](https://vimeo.com/927841223?share=copy)
+
+[30 sec footage](https://vimeo.com/927841223?share=copy)
 
 https://vimeo.com/927841223?share=copy
 
-[vimeo link](https://vimeo.com/921993721?share=copy)
+[Pre-task](https://vimeo.com/921993721?share=copy)
 
 https://vimeo.com/921993721?share=copy_underline_
 
