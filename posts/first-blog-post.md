@@ -29,9 +29,9 @@ Then we read the list again, the last thing sounds so abstractive, and we don’
 
 
 
-## WEEK 01 Session 02
+## Week 01 Session 02
 
-*Editing Practice*[^1]
+**Editing Practice**[^1]
 
 [30 sec footage](https://vimeo.com/927841223?share=copy)
 
@@ -43,14 +43,14 @@ About this task, I think is a good try but still have a lot of space to improve.
 First, I realised I’m too focused on the logic between the footages instead of describing something emotional. Second, about the editing technique, I think still need to try more and have more practice.
 So in the following task, I will more focus on the meaning editing gave to the footage not the own storyline of the footages. 
 
-**W01s02**
 
 Hyperlinks can be written like this: `[text](https://URL)`
 
 You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
 ## Week 02 Session 01
-*Storyboard*
+**Storyboard**
+
 ![storyboard01](/s01w02/storyboard01.jpg)
 
 ![storyboard02](/s01w02/storyboard02.jpg)
@@ -75,6 +75,13 @@ Based on this I hope the audience can touch the feeling of unreal.
 $$ x^2 + y^2 = z^2 $$
 
 Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for more information about writing maths.
+
+## Week 02 Session 02
+
+**Key moment**
+
+![Key moment](/s02w02/key%20moment.jpg)
+
 
 ## Embedding video:
 
