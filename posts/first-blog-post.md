@@ -107,6 +107,14 @@ Via everything we mentioned above, the video will  evoke a sense of empty to los
 
 It will be good audience have their own thought about the video. But, I think, let audience understand the relations between some footage is important, like the part of death.
 
+**Final storyboard**
+
+![new storyboard](/s02w02/new01.jpg)
+
+
+
+
+
 ## Embedding video:
 
 <iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
