@@ -82,6 +82,16 @@ Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for
 
 ![Key moment](/s02w02/key%20moment.jpg)
 
+The key moment in the Video is the footage of  dragonfly. One symbolised falling into nothingness and another one means the mentally exist.
+
+In the video I want to use the dragonfly as a symbol because in the dragonfly’s life cycle, involves a remarkable transformation from new-born to adult, symbolising the journey between different stages of existence. This transformation can mirror the theme of transitioning between life and death, highlighting the fluidity of existence.
+
+For the visual design, The images of dragonflies will throughout the video as a visual clue, appearing in moments of  transformation. The sight of a dragonfly hovering between two worlds could serve as a  reminder of the connect between all things and the transient nature of existence.
+
+**sound design**
+
+
+
 
 ## Embedding video:
 
