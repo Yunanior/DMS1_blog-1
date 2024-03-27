@@ -7,7 +7,7 @@ allow_math: true
 ---
 
 # Week 01 Session 01
-![image 1](./s01w01/01.png)
+![image 1](/s01w01/01.png)
 
 ![image 2](/s01w01/03.png)
 
@@ -28,7 +28,6 @@ After this, we go downstairs and found the place for food, then we think we mayb
 Then we read the list again, the last thing sounds so abstractive and we don’t know where to go, but luckily, before the time out, we saw the roots, the gate and the chair and took these photos.
 
 
-^ images are written like this: `![description](file_path/file_name.png)`
 
 ## WEEK 01 Session 02
 
