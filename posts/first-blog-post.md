@@ -44,10 +44,6 @@ First, I realised I’m too focused on the logic between the footages instead of
 So in the following task, I will more focus on the meaning editing gave to the footage not the own storyline of the footages. 
 
 
-Hyperlinks can be written like this: `[text](https://URL)`
-
-You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
-
 ## Week 02 Session 01
 **Storyboard**
 
@@ -68,13 +64,6 @@ Second, about the colour of footage, I will use cold tone to show the atmosphere
 
 Based on this I hope the audience can touch the feeling of unreal.
 
-... which can be written inline, like this: $\{ x, y, z \} \in \N$
-
-... or block, like this:
-
-$$ x^2 + y^2 = z^2 $$
-
-Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for more information about writing maths.
 
 ## Week 02 Session 02
 
