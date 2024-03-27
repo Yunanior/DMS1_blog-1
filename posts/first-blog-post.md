@@ -53,7 +53,7 @@ You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-s
 *Storyboard*
 ![storyboard01](/s01w02/storyboard01.jpg)
 
-![storyboard02](/s01w01/storyboard02.jpg)
+![storyboard02](/s01w02/storyboard02.jpg)
 
 ![storyboard03](/s01w02/storyboard03.jpg)
 
