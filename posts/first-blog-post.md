@@ -99,7 +99,13 @@ To establish the mood and atmosphere of the memorise are passing by, the backgro
  
 About the ambient sounds, they will change with the sense, like at start to show a living’s life is vanishing, I will insert the sounds of heartbeat rhythms and the beeping of equipments. Meanwhile I will use L and J cut to transfer between the footage, for example, the audience may hear the heartbeat at first than see another sense about the dragonfly.
 
+*Emotional tone*
+
 Via everything we mentioned above, the video will  evoke a sense of empty to lost as the feeling death bring us. And, the shots will be arranged to maintain a sense of flow and development, despite the protagonist's fragmented perception.
+
+*union with audience*
+
+It will be good audience have their own thought about the video. But, I think, let audience understand the relations between some footage is important, like the part of death.
 
 ## Embedding video:
 
