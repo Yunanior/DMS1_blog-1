@@ -7,6 +7,9 @@ allow_math: true
 ---
 
 # Week 01 Session 01
+
+**Scavenger Hunt**
+
 ![image 1](/s01w01/01.png)
 
 ![image 2](/s01w01/03.png)
@@ -77,7 +80,7 @@ In the video I want to use the dragonfly as a symbol because in the dragonfly’
 
 For the visual design, The images of dragonflies will throughout the video as a visual clue, appearing in moments of  transformation. The sight of a dragonfly hovering between two worlds could serve as a  reminder of the connect between all things and the transient nature of existence.
 
-**sound design**
+**Sound Design**
 
 *backgroung music chooseing*
 
@@ -96,7 +99,7 @@ Via everything we mentioned above, the video will  evoke a sense of empty to los
 
 It will be good audience have their own thought about the video. But, I think, let audience understand the relations between some footage is important, like the part of death.
 
-**Final storyboard**
+**Final Storyboard**
 
 ![new storyboard](/s02w02/new01.jpg)
 
@@ -117,6 +120,6 @@ During the draft editing, I found out some footages were too straight to word, w
 
 So based on this draft, I correct all the things been mentioned above.
 
-## Finnal video:
+## Finnal Video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dgixbwRe2BY?si=XBReqV6BpCIPbn6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
