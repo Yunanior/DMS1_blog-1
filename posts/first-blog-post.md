@@ -8,12 +8,14 @@ allow_math: true
 
 # Week 01 Session 01
 ![image 1](./s01w01/01.png)
+Library as a place we all know, so we started searching from there and find the book on the serching divice.
 ![image 2](/s01w01/03.png)
+When we going out of the library, we saw a venting machine in the corner!
 ![image 3](/s01w01/05.png)
+Coffee shop but closed:(
 ![image 4](/s01w01/06.png)
 ![image 5](/s01w01/07.png)
 ![image 6](/s01w01/08.png)
-![a drippy lemon](logo.svg)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
