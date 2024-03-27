@@ -120,7 +120,7 @@ It will be good audience have their own thought about the video. But, I think, l
 ## Week03 Session 01
 **Draft**
 
-[The draft](https://vimeo.com/927944184?share=copy)
+[The draft video](https://vimeo.com/927944184?share=copy)
 
 In this draft the first stage is basically completed—the order of the footage and the basic sound, visual editing.
 
